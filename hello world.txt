@@ -6,7 +6,8 @@ def marksMethod(){
 
 
 def joshMethod(){
-
-
-
+Hello world
+This is cool
+Yes it is
+Good times
 }
