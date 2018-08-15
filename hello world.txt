@@ -1,2 +1,12 @@
-This is a much better hello world file
-I'm fairly sure this one is the best
+def marksMethod(){
+
+
+}
+
+
+
+def joshMethod(){
+
+
+
+}
