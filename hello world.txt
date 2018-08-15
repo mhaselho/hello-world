@@ -23,7 +23,8 @@ We will find this cool
 
 
 def joshMethod(){
-
-
-
+Hello world
+This is cool
+Yes it is
+Good times
 }
